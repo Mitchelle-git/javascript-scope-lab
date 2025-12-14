@@ -1,6 +1,6 @@
 // Write your solution in this file
 const burgers = ['Hamburger','Cheeseburger'];
-let featureDrink= ['Strawberry Milkshake'];
+const featureDrink= ['Strawberry Milkshake'];
 
 function addBurger(){
     const newBurger='Flatburger';
@@ -15,7 +15,7 @@ if(true){
 
 
 function changeFeaturedDrink(){
- const featureDrink='The JavaShake';
+ featureDrink='The JavaShake';
 }
 
 
